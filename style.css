@@ -5,9 +5,11 @@ body {
 }
 
 header {
-    background-color: #b1b8dd;
+    background-color: #eb9aff;
     padding: 20px;
     text-align: center;
+
+    
 }
 
 h1 {
@@ -15,7 +17,7 @@ h1 {
 }
 
 section {
-    padding: 20px;
+    padding: 10px;
     border-bottom: 1px solid #705555;
 }
 
@@ -32,3 +34,9 @@ h2 {
 .hitos li {
     margin-bottom: 5px;
 }
+
+
+
+       section {
+        background-repeat: repeat;
+            }
